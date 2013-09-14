@@ -1,1 +1,2 @@
 line1\nline2
+it s anew day
